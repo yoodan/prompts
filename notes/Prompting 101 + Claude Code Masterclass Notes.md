@@ -1,3 +1,7 @@
+Sources:
+- Claude Code Masterclass by Bootstrapped Founder Podcast - https://thebootstrappedfounder.com/james-phoenix-claude-code-masterclass/
+- Prompting 101 by Anthropic: https://www.youtube.com/watch?v=ysPbXH0LpIE
+- Prompting for Agents by Anthropic: https://www.youtube.com/watch?v=XSZP9GhhuAc
 
 Best things you can do to improve agentic coding:
 - Have a couple "pointer" files, reference files of how to ideally do a thing in the codebase.
